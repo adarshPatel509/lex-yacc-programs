@@ -47,6 +47,7 @@
 
 \n                      { 
                           lineCount++;
+                          charactersCount++;
                         }
 
 \n\n                    {
