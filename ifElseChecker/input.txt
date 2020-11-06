@@ -1,0 +1,19 @@
+if ( a > b) {
+  a = b;
+}
+
+if ( a < 10) {
+  a++;
+} else {
+  a = 10;
+}
+
+if ( a != 100 ) {
+  a = b + c;
+} else {
+  if (b > 0) {
+    b = c * d;
+  } else {
+    c = a / b;
+  }
+}

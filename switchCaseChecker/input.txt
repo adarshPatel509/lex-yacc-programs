@@ -1,0 +1,12 @@
+switch (a) {
+  case 1: 
+      b++;
+  case 2:
+      b--;
+      break;
+  case a % 3:
+      d = a + c;
+      break;
+  default:
+      a = b * 100;
+}

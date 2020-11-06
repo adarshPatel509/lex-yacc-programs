@@ -1,0 +1,9 @@
+do {
+  a = b + c;
+} while(a != 100);
+
+do {
+  a++;
+  b = a + 10;
+} while (a < 10);
+

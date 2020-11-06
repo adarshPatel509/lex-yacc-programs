@@ -1,0 +1,30 @@
+while(a != 10)
+  a++;
+
+
+while(a >= 0) {
+  b = b / a;
+}
+
+while(a <= 10) {
+  while(b < a) {
+    a++;
+    b++;
+    c = a + b;
+  }
+}
+
+while(a>= 0) {
+  c = 100;
+  d = a * c;
+  a--;
+}
+
+while(a < 10)
+  while(b < 10)
+    while(c < 10) {
+      a++;
+      b++;
+      c++;
+      d = a * c * b;
+    }
